@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1397755.jpg");
+    font: normal  16px/1.5 "Helvetica Neue", sans-serif;
+}
+
+ul {
+ 
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+ul li a {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  font-size: 0.875em;
+  text-decoration: none;
+  padding: 1em;
+  white-space: nowrap;
+  letter-spacing: 1px;
+}
+
+ul li a:hover {
+    border-bottom: 3px solid white;
+}
+
+.header {
+    padding: 20px;
+    height: 100vh;
+    background: url("https://www.cricket.com.au/~/-/media/News/2014/12/30DhoniGone.ashx?w=1600&h=900");
+    background-size: cover;
+    position: relative;
+}
+
+.header h1 {
+    margin: 0;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.header .content {
+    position: relative;
+}
+
+.flex {
+    color: #fff;
+
+}
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
